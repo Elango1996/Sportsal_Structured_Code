@@ -1,2 +1,2 @@
-# Sportsal_Strctured_Code
+# Sportsal_Structured_Code
 Structured Code
